@@ -2,6 +2,8 @@
 
 **English** · [Español](#español)
 
+Created by **SanQ**.
+
 A Claude skill that translates and revises academic texts (theses, journal articles, research
 reports) from any language into academic Chinese, written in the register of Chinese theses and
 journal papers.
@@ -110,11 +112,13 @@ python sanq-chinese-article-composer/scripts/verify_zh.py translation.md --sourc
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT © 2026 SanQ. See [LICENSE](LICENSE). You may use, modify and share this skill freely; the license asks you to keep the copyright notice, which credits SanQ.
 
 ---
 
 ## Español
+
+Creada por **SanQ**.
 
 Una skill de Claude que traduce y revisa textos académicos (tesis, artículos, informes de
 investigación) de cualquier idioma al chino académico, con el registro de las tesis y los
@@ -214,4 +218,4 @@ Cada uno trae su original, su traducción, su glosario, la salida del verificado
 
 ### Licencia
 
-MIT. Véase [LICENSE](LICENSE).
+MIT © 2026 SanQ. Véase [LICENSE](LICENSE). Puede usar, modificar y compartir esta skill libremente; la licencia pide conservar el aviso de copyright, que da el crédito a SanQ.

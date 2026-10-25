@@ -179,3 +179,7 @@ The template is in `references/09_process.md`.
 | `glossaries/` | Reusable template and an example glossary for economics and international trade |
 | `scripts/verify_zh.py` | Generic verifier and corpus calibration; thresholds in `scripts/README.md` |
 | `scripts/harvest_terms.py` | Extracts attested bilingual terms from downloaded open articles of the field |
+
+---
+
+Created by SanQ. MIT License: keep this notice in copies and derived versions.
