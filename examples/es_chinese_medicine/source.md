@@ -1,0 +1,3 @@
+# Acupuntura en el insomnio por deficiencia del corazón y del bazo
+
+En la medicina china, el insomnio se asocia con frecuencia al síndrome de deficiencia del corazón y del bazo. Este ensayo clínico aleatorizado asignó a 120 pacientes a acupuntura o a acupuntura simulada durante cuatro semanas. Los puntos principales fueron Shenmen (HT7), Sanyinjiao (SP6) y Baihui (GV20). Tras el tratamiento, la puntuación del Índice de Calidad del Sueño de Pittsburgh descendió 4,6 puntos más en el grupo de acupuntura (IC 95 %: 3,1 a 6,1; P < 0,001). Como la asignación fue aleatoria, la diferencia puede atribuirse al tratamiento, aunque el cegamiento de los acupuntores no fue posible.

@@ -1,0 +1,11 @@
+term_en,chinese,reference,evidence,note
+minimum wage,最低工资,official regulation,"《最低工资规定》 (department rule of 人力资源社会保障部, in force); web search 2026-10-25",
+youth employment,青年就业,web search,"2026-10-25: only a Taiwanese study found, which writes 青少年就业; no mainland journal found",[待人工核对] candidates 青年就业 / 青少年就业
+difference-in-differences,双重差分法,corpus,attested in Chinese economics articles,
+standard error,标准误,corpus,（标准误：X） 27 uses in the corpus,
+percentage points,个百分点,corpus,attested,never % for a difference between percentages
+treated counties,处理组县,derived,处理组 attested in the corpus,
+comparison counties,对照组县,derived,对照组 attested in the corpus,
+parallel trends,平行趋势假设,corpus,平行趋势检验 attested in the articles,a non-rejected test does not prove the assumption
+power (of a test),检验功效,supervisor's wording,"""平行趋势检验功效低"" in a Chinese supervisor's comment",统计功效 also found on a popular site; not decisive
+wage bill,工资总额,official statistics,"国家统计局 indicator 工资总额 (stats.gov.cn, 指标解释), 2026-10-25",

@@ -1,0 +1,40 @@
+term_en,term_es,chinese,reference,evidence,note
+deep integration,integración profunda,深度一体化,corpus,9 occurrences,not 深层一体化; counterpart 浅层一体化
+shallow integration,integración superficial,浅层一体化,corpus glossary,usage note of the corpus glossary,counterpart of 深度一体化
+trade creation,creación de comercio,贸易创造,corpus,attested in the articles,贸易创造理论 for the theory
+trade diversion,desviación de comercio,贸易转移,corpus,attested in the articles,
+tariff concessions; tariff reduction,desgravación arancelaria,关税减让,corpus glossary + supervised draft,supervised draft: 关税减让 10 / 降税 0,降税 and 关税减免 exist; one form per document
+WTO-extra provisions,disposiciones OMC-extra,WTO-X条款,corpus,attested,
+global value chain,cadena global de valor,全球价值链,corpus,50 occurrences,
+trade costs,costes comerciales,贸易成本,corpus,36 occurrences,
+productivity,productividad,生产率,corpus,27 occurrences,
+gravity model,modelo de gravedad,引力模型,corpus,14 occurrences,
+share (composition of exports),participación (en la composición),占比,corpus glossary,比重 32 occurrences (more formal),占比 for composition in tables; 比重 in official-statistics register
+market share,cuota de mercado,市场份额,corpus glossary,usage note of the corpus glossary,份额 for market shares only
+medium- and high-tech manufactures,manufacturas de tecnología media y alta,中高技术制成品,corpus glossary,attested,
+manufactures,manufacturas,制成品,corpus glossary,usage note,工业制成品 to stress industrial origin
+re-primarization,reprimarización,再初级化,Chinese editions of ECLAC reports (as recorded in the corpus glossary),not found literally in the corpus,[待人工核对] alternative 初级产品化
+center-periphery,centro-periferia,中心—外围,corpus,attested,structuralist school
+Dutch disease,enfermedad holandesa,荷兰病,corpus,attested,
+terms of trade,términos de intercambio,贸易条件,corpus glossary,usage note,not 交换条件 (dated)
+technology spillover,derrame tecnológico,技术溢出,corpus,2 occurrences,
+multinational enterprises,empresas multinacionales,跨国企业,corpus glossary + supervised draft,supervised draft: 跨国企业 2 / 跨国公司 0,
+resource-based view,visión basada en los recursos,资源基础观,corpus,attested in a thesis,
+income elasticity of import demand,elasticidad ingreso de la demanda de importaciones,进口需求收入弹性,corpus glossary + supervised draft,supervised draft: 进口需求收入弹性 2 / 进口收入弹性 1,mirror term: 出口需求收入弹性
+income elasticity of export demand,elasticidad ingreso de la demanda de exportaciones,出口需求收入弹性,native reviewer,correction of an elided form (出口 alone),keep symmetric with the import term
+production linkages,encadenamientos productivos,生产关联,supervised draft,used with 后向关联 and 关联效应,distinguishes the direct from the indirect path; do not unify with 关联效应
+backward linkages,encadenamientos hacia atrás,后向关联,supervised draft,attested,
+non-resident patent applications,solicitudes de patentes de no residentes,非居民专利申请,corpus glossary + supervised draft,supervised draft: 6 / …申请量 1,
+difference-in-differences,diferencias en diferencias,双重差分法（DID）,corpus,attested,first mention with （DID）
+parallel trends test,prueba de tendencias paralelas,平行趋势检验,corpus,attested in the articles,a non-rejected test does not prove the assumption
+placebo test,prueba placebo,安慰剂检验,corpus,attested in the articles,
+variance inflation factor,factor de inflación de la varianza,方差膨胀因子（VIF）,corpus,attested,first mention with （VIF）
+dependent variable,variable dependiente,被解释变量,corpus,attested,avoid 因变量 in tables
+explanatory variable,variable explicativa,解释变量,corpus,attested,
+core explanatory variable,variable explicativa principal,核心解释变量,corpus,attested,
+control variable,variable de control,控制变量,corpus,attested,list controls one by one in tables
+mediating variable,variable mediadora,中介变量,corpus,attested,
+moderating variable,variable moderadora,调节变量,corpus,attested,
+observations,observaciones,观测值,corpus,used in the reference theses,preferred to 观测数 in table headers
+base period (event study),período de referencia,基准期,corpus glossary + supervised draft,attested,not 参照期
+source (line under a table or figure),fuente,资料来源,corpus,attested,数据来源 in methodological prose

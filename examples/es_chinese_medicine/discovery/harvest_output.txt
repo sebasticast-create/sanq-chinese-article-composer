@@ -1,0 +1,57 @@
+files read: 10 | bilingual pairs: 40 -> discovery/harvest.csv
+
+keyword pairs (written by the authors as 关键词 / Keywords):
+  3  失眠  =  insomnia
+  2  针刺疗法  =  acupuncture therapy
+  1  三焦针法  =  acupuncture
+  1  任督点穴  =  ren and du acupuncture
+  1  刺五加  =  acanthopanax senticosus
+  1  失眠症  =    insomnia
+  1  失眠症  =  insomnia
+  1  心率变异性  =  heart rate variability
+  1  心脾两虚  =  deficiency of both the heart and spleen
+  1  心脾两虚  =  heart and spleen deficiency
+  1  心脾两虚  =  heart-spleen deficiency
+  1  心脾两虚型  =  heart-spleen deficiency
+  1  慢性失眠症  =  chronic insomnia
+  1  按揉法  =  kneading
+  1  推拿  =  massage
+  1  气街  =    qi street
+  1  治疗结果  =    treatment outcome
+  1  火针  =  fire needling
+  1  火龙药灸  =  huolong moxibustion
+  1  灵龟八法  =  ling gui ba fa
+  1  灸法  =     moxibustion
+  1  睡眠质量  =  sleep quality
+  1  觉醒状态  =  arousal
+  1  过度觉醒  =  hyperarousal
+  1  针刺  =  acupuncture
+
+bracket pairs, grouped by the English term (review: the Chinese may carry extra words):
+  psqi: 匹兹堡睡眠质量指数 (2) | 匹兹堡睡眠质量指标 (1) | 评分和匹兹堡睡眠指数 (1) | 治疗后匹茨堡睡眠质量指数量表 (1) | 较两组匹茨堡睡眠质量指数量表 (1)
+  gaba: 氨基丁酸 (2)
+  cbt-i: 失眠认知行为治疗 (1) | 失眠认知行为疗法 (1)
+  has: 周结束时过度觉醒量表评分 (1)
+  da: 多巴胺 (1)
+  who/wpo: 失眠症中医临床实践指南 (1)
+  spiegel: 斯匹格失眠量表 (1)
+  hrv: 疲劳状态和心率变异性 (1)
+  fs-14: 疲劳量表评分 (1)
+  bdnf: 脑源性神经营养因子 (1)
+  not paired: a01.html: 9 关键词 / 0 keywords, pair them by hand: 归脾丸 ; 酒石酸唑吡坦片 ; 失眠症 ; 心脾两虚型 ; 斯匹格失眠量表 ; 匹兹堡睡眠指数 ; 5-羟色胺 ; γ-氨基丁酸 ; 脑源性神经营养因子  ||  
+  not paired: a02.html: 4 关键词 / 0 keywords, pair them by hand: 灵芪加口服液 ; 失眠症 ; 心脾两虚 ; 临床研究  ||  
+  not paired: p02.txt: 5 关键词 / 4 keywords, pair them by hand: 入睡和睡眠障碍 ; 腹部 ; 推拿 ; 针灸 ; 文章  ||  Sleep Onset and Sleep Disorders ; Abdomen ; Tuina Massage ; Acupuncture and Moxibustion
+
+attestation of candidate terms (documents containing each variant):
+  心脾两虚证: 3 docs, 10 uses | 心脾两虚型: 7 docs, 55 uses | 心脾两虚: 8 docs, 70 uses
+  针刺组: 0 docs, 0 uses | 假针刺组: 0 docs, 0 uses | 对照组: 6 docs, 68 uses | 治疗组: 4 docs, 37 uses
+  主穴: 0 docs, 0 uses | 主要穴位: 0 docs, 0 uses
+  差异有统计学意义: 1 docs, 2 uses | 显著差异: 1 docs, 1 uses | 显著: 2 docs, 20 uses
+  置信区间: 0 docs, 0 uses | 可信区间: 0 docs, 0 uses
+  评分: 5 docs, 32 uses | 得分: 0 docs, 0 uses
+  例患者: 0 docs, 0 uses | 名患者: 0 docs, 0 uses
+  针刺: 4 docs, 68 uses | 针灸: 7 docs, 60 uses
+  假针刺: 0 docs, 0 uses | 假针: 1 docs, 1 uses | 安慰针刺: 0 docs, 0 uses
+  匹兹堡睡眠质量指数: 2 docs, 7 uses | 匹茨堡睡眠质量指数: 1 docs, 2 uses
+  失眠症: 8 docs, 52 uses | 失眠: 10 docs, 146 uses | 不寐: 2 docs, 16 uses
+  神门: 3 docs, 8 uses | 三阴交: 3 docs, 5 uses | 百会: 3 docs, 6 uses

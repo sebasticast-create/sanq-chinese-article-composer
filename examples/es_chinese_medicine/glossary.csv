@@ -1,0 +1,17 @@
+term_es,chinese,reference,evidence,note
+síndrome de deficiencia del corazón y del bazo,心脾两虚证,harvest (discovery/harvest.csv),"心脾两虚 in 8 of 10 documents; 关键词/Keywords pair (heart and spleen deficiency) in 3; the 证 form in 3",back-translated; not 心和脾的缺乏综合征. 心脾两虚型 is the form for "insomnia of this type" (7 docs)
+insomnio,失眠,harvest,"10 of 10 documents; 关键词/Keywords pair (insomnia) in 3",不寐 is the classical name (2 docs): only if the source uses it
+acupuntura,针刺,harvest,"关键词/Keywords pairs 针刺 = acupuncture, 针刺疗法 = acupuncture therapy (2 docs)",针灸 = acupuncture and moxibustion (pair in 1 doc): a different concept
+acupuntura simulada,假针刺,journal usage,"《中国针灸》 article distinguishing 假针刺 from 安慰针刺; review in 世界科学技术-中医药现代化 (doi 10.11842/wst.20230805002); web search 2026-10-25",安慰针刺 is narrower (no needle insertion at the acupoint)
+grupo de acupuntura simulada,假针刺组,derived,假针刺 attested; 治疗组/对照组 pattern in 6 docs,
+grupo de acupuntura,针刺组,derived,治疗组 in 4 docs; 针刺组 not found in this small harvest,[待人工核对] 针刺组 / 治疗组
+ensayo clínico aleatorizado,随机对照试验,harvest,1 document; standard term,
+Índice de Calidad del Sueño de Pittsburgh,匹兹堡睡眠质量指数（PSQI）,harvest,"bracket pairs: 匹兹堡 2 docs, 匹茨堡 1",first mention with （PSQI）
+puntuación,评分,harvest,5 documents; 得分 0,
+Shenmen (HT7),神门（HT7）,harvest + journal usage,"神门 in 3 docs; code form 神门（HT7） in a 《中国针灸》 2020 RCT abstract (web search)",back-translated acupoint name + standard code
+Sanyinjiao (SP6),三阴交（SP6）,harvest + journal usage,三阴交 in 3 docs; same abstract,
+Baihui (GV20),百会（GV20）,harvest + journal usage,百会 in 3 docs; same abstract,
+puntos principales,主穴,none,not found in the harvest,[待人工核对] candidates 主穴 / 主要穴位
+IC 95 %,95%CI,journal author guidelines,"稿约 of 《中国普通外科杂志》 (cjournal.hep.com.cn): 95%可信区间（95%CI）",if spelled out: 置信区间 / 可信区间 [待人工核对]
+cegamiento,盲法,journal usage,same review: 盲法; 针刺操作者的盲法,
+acupuntores,针刺操作者,journal usage,same review,

@@ -1,0 +1,18 @@
+=== translation.md against source.md | profile: article ===
+
+  INFO   A0   source decimal separator: comma
+  INFO   A1   figures checked: 5
+  INFO   A2   author citations checked: 0
+  INFO   A3   prose paragraphs: source 1, translation 1 (tolerance ±2)
+  INFO   B0   Chinese characters of running prose: 110 (below 3000: rates reported, not judged)
+  INFO   B3   它/它们: 0 (0.0 per 10,000; corpus 1.7)
+  INFO   B4   值得注意的是 and similar: 0 (ceiling 1)
+  INFO   B8   sentences: 5, mean 34, median 29, p90 50 characters (corpus 47 / 41 / 87); over 90: 0
+  INFO   B9   paragraphs: 1, mean 173 characters (corpus 146); over 340: 0
+  INFO   B11  enumerators: 0 (0.0 per 10,000; corpus 16.0)
+  INFO   B12  connectives: 0 = 0.0 per 10,000, 0 distinct forms (reference theses: 92.4 / 53 and 96.0 / 48)
+  INFO   D0   glossary: 16 entries, 16 used in the translation
+  WARN   D2   3 terms pending human check [待人工核对]: grupo de acupuntura → 针刺组 | puntos principales → 主穴 | IC 95 % → 95%CI
+
+NO FAILS, 1 warnings
+exit=0

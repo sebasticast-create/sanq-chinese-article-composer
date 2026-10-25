@@ -1,0 +1,10 @@
+term_es,chinese,reference,evidence,note
+cobertura arbórea,树冠覆盖率,web search,"2026-10-25: 树冠覆盖率 in a popular-science article (rmlt.com.cn); no Chinese journal article found",[待人工核对] candidates 树冠覆盖率 / 树冠覆盖度; check in CNKI with 树冠覆盖度 地表温度
+temperatura superficial,地表温度,journal usage,"地球信息科学学报 2016, article on building density and heat island (dqxxkx.cn): 地表温度, 地表温度反演",
+isla de calor,城市热岛效应,journal usage,same article: 热岛效应,first mention may add （Urban Heat Island）
+imágenes satelitales,卫星影像,journal usage (partial),"地球信息科学学报 2016 abstract writes 高分辨率遥感影像; 卫星影像 itself not seen in a journal in this search (2026-10-25)",卫星影像 kept because the source says satellite; 遥感影像 is the broader term
+densidad edificada,建筑密度,journal usage,地球信息科学学报 2016 (title: 北京城市建筑密度分布对热岛效应的影响研究),
+vegetación urbana,城市植被,none,not attested in this search,[待人工核对] candidates 城市植被 / 城市绿地 (the source means vegetation in general)
+renta,收入水平,general vocabulary,not a technical term,the source means household income of the neighbourhood
+error estándar,标准误,corpus,（标准误：X） pattern,
+puntos porcentuales,个百分点,corpus,attested,
