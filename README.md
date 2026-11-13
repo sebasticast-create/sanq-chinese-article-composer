@@ -54,8 +54,15 @@ journal papers.
 - Restart Claude Code if the `skills` folder did not exist before.
 
 ```
-git clone <this repository>
-cp -r sanq-chinese-article-composer ~/.claude/skills/
+git clone https://github.com/sebasticast-create/sanq-chinese-article-composer.git
+cp -r sanq-chinese-article-composer/sanq-chinese-article-composer ~/.claude/skills/
+```
+
+Or install it as a plugin, inside Claude Code:
+
+```
+/plugin marketplace add sebasticast-create/sanq-chinese-article-composer
+/plugin install sanq-chinese-article-composer@sanq
 ```
 
 **claude.ai** (paid plans with code execution enabled)
@@ -170,6 +177,18 @@ artículos chinos.
 - Copie la carpeta `sanq-chinese-article-composer` en `~/.claude/skills/` (para todos sus proyectos) o
   en `.claude/skills/` dentro de un proyecto.
 - Reinicie Claude Code si la carpeta `skills` no existía.
+
+```
+git clone https://github.com/sebasticast-create/sanq-chinese-article-composer.git
+cp -r sanq-chinese-article-composer/sanq-chinese-article-composer ~/.claude/skills/
+```
+
+O instálela como plugin, dentro de Claude Code:
+
+```
+/plugin marketplace add sebasticast-create/sanq-chinese-article-composer
+/plugin install sanq-chinese-article-composer@sanq
+```
 
 **claude.ai** (planes de pago, con ejecución de código activada)
 1. Haga un ZIP que contenga la carpeta `sanq-chinese-article-composer`, no sus archivos sueltos.

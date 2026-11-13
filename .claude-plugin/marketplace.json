@@ -1,0 +1,17 @@
+{
+  "name": "sanq",
+  "owner": { "name": "SanQ" },
+  "metadata": {
+    "description": "Skills by SanQ for writing and translating Chinese",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sanq-chinese-article-composer",
+      "description": "Translate and revise academic texts into academic Chinese, in the register of Chinese theses and journal papers.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./sanq-chinese-article-composer"]
+    }
+  ]
+}
