@@ -2,7 +2,7 @@
 
 **English** · [Español](#español)
 
-Created by **SanQ**.
+Created by **[SanQ](https://sanq.app)**, the app to learn Mandarin Chinese in Spanish.
 
 A Claude skill that translates and revises academic texts (theses, journal articles, research
 reports) from any language into academic Chinese, written in the register of Chinese theses and
@@ -125,7 +125,7 @@ MIT © 2026 SanQ. See [LICENSE](LICENSE). You may use, modify and share this ski
 
 ## Español
 
-Creada por **SanQ**.
+Creada por **[SanQ](https://sanq.app)**, la app para aprender chino mandarín en español.
 
 Una skill de Claude que traduce y revisa textos académicos (tesis, artículos, informes de
 investigación) de cualquier idioma al chino académico, con el registro de las tesis y los
